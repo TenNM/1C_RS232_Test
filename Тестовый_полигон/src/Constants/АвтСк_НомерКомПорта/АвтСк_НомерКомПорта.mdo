@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fbe32fee-1a85-481d-a244-27a7a0d418e4">
+  <producedTypes>
+    <managerType typeId="79c84317-e85a-4587-99a5-db85f2738df7" valueTypeId="1941669e-b861-4d8b-bc76-36b20745d098"/>
+    <valueManagerType typeId="234838dd-3a26-4ab4-bc0b-fdfc45ccd147" valueTypeId="c4861d16-0cca-4729-89d6-72a95a590afe"/>
+    <valueKeyType typeId="6ae62c7f-fb66-4fa8-8aa6-536b5b7268b4" valueTypeId="9c9374d8-a677-49f1-beed-89268258d414"/>
+  </producedTypes>
+  <name>АвтСк_НомерКомПорта</name>
+  <synonym>
+    <key>ru</key>
+    <value>*Номер ком порта</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>3</precision>
+      <nonNegative>true</nonNegative>
+    </numberQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
