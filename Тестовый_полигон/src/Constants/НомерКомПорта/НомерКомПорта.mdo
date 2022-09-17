@@ -5,10 +5,10 @@
     <valueManagerType typeId="234838dd-3a26-4ab4-bc0b-fdfc45ccd147" valueTypeId="c4861d16-0cca-4729-89d6-72a95a590afe"/>
     <valueKeyType typeId="6ae62c7f-fb66-4fa8-8aa6-536b5b7268b4" valueTypeId="9c9374d8-a677-49f1-beed-89268258d414"/>
   </producedTypes>
-  <name>АвтСк_НомерКомПорта</name>
+  <name>НомерКомПорта</name>
   <synonym>
     <key>ru</key>
-    <value>*Номер ком порта</value>
+    <value>Номер ком порта</value>
   </synonym>
   <type>
     <types>Number</types>

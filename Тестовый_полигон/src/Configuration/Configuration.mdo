@@ -35,6 +35,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <constants>Constant.АвтСк_НомерКомПорта</constants>
+  <constants>Constant.НомерКомПорта</constants>
   <commonForms>CommonForm.ФормаТест</commonForms>
 </mdclass:Configuration>
